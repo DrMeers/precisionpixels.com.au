@@ -1,0 +1,8 @@
+html{
+  height: 100%;
+}
+#logo{
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
